@@ -1,3 +1,8 @@
 import AreaCircle
+import conversion
 
-print(AreaCircle.calculateArea())
+# Shows result of the Circle Area
+#print(AreaCircle.calculateArea())
+
+#Shows result of farenheit conversion
+print(conversion.toCelsius())
